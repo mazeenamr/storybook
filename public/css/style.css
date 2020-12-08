@@ -1,0 +1,15 @@
+.login-container {
+    margin-top: 50px;
+    width: 400px ;
+    text-align: center;
+}
+p{
+    margin: 10ox 0 !important;
+}
+.btn-float{
+    float: left;
+    margin-right: 10px;
+}
+.img-small{
+    width: 180px;
+}
